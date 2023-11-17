@@ -117,6 +117,7 @@ packages:
   sets:
   - packages:
     - openssh-client
+    - openssh-server
     - gettext-base
     action: install
 
